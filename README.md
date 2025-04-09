@@ -1,7 +1,6 @@
 # Architectural Emotional Impact Map ▲/●
 
-[![Live Demo](https://img.shields.io/badge/demo-GitHub%20Pages-blue?style=flat-square)](https://yourusername.github.io/repo-name/)
-
+[![Live Demo](https://img.shields.io/badge/demo-GitHub%20Pages-blue)](https://Curvista.github.io/toxic-vs-sacred-map/)
 Interactive Leaflet.js map visualizing how building geometries affect human emotions:
 
 🔴 **▲ Toxic Zones**  
